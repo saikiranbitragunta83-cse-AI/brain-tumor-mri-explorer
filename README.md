@@ -1,7 +1,7 @@
 # Brain MRI Explorer
 ### Brain Tumor Segmentation Research | Interactive MRI Visualization
 
-**Live application:** https://brain-tumor-mri-explorer.streamlit.app/  
+**Live application:** https://brain-tumor-mri-research.streamlit.app/ 
 **Source repository:** https://github.com/saikiranbitragunta83-cse-AI/brain-tumor-mri-explorer
 
 This repository hosts a browser-based MRI visualization and segmentation-analysis dashboard accompanying the academic project **Brain Tumor Detection and Survival Prediction Using Deep Learning Techniques**. The application enables interactive exploration of volumetric MRI data and visualization of provided segmentation labels.
