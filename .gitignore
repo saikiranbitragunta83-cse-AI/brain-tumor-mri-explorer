@@ -1,0 +1,26 @@
+# Environment and local files
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+.env
+.streamlit/secrets.toml
+
+# Do not upload medical datasets or large trained models by accident
+*.nii
+*.nii.gz
+*.npy
+*.h5
+*.keras
+*.weights.h5
+*.joblib
+*.pkl
+*.pt
+*.pth
+
+# Local processing artifacts
+outputs/
+raw_data/
+training_data/
